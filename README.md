@@ -25,7 +25,7 @@ El sistema se organiza en varios elementos:
 - Funciones extras:
   - Búsqueda lineal: para encontrar un pedido por su ID.
   - Ordenamiento (Insertion Sort): para ordenar pedidos por fecha o prioridad.
-  - Arreglos binarios: representan estados de los pedidos (`0 = no procesado`, `1 = procesado`).
+  - Arreglos binarios: representan estados de los pedidos (0 = no procesado, 1 = procesado).
 
 ## Conceptos Implementados
 1. Clases y Objetos  
@@ -41,7 +41,7 @@ El sistema se organiza en varios elementos:
    Algoritmo simple para organizar los pedidos por criterio (fecha o prioridad).  
 
 5. Arreglos Binarios  
-   Se usan `0` y `1` para indicar el estado de cada pedido.  
+   Se usan 0 y 1 para indicar el estado de cada pedido.  
 
 6. Ciclos For  
    Se utilizan para recorrer listas y arreglos, procesando varios pedidos a la vez.
